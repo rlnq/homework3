@@ -7,7 +7,7 @@ Components:
 * PHP 7.4.33
 * MySQL 8.0.31
 * Apache 2.4.52
-* certbot 1.32.1 - for SSL Certificate
+* certbot 1.32.1
 
 Test user (user-pass):
 * test
